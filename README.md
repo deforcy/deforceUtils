@@ -2,6 +2,8 @@
 
 # !!! YOU NEED THE PLUGIN FOR IT TO WORK ON A SERVER !!!
 
+Available exclusively on [Modrinth](https://modrinth.com/plugin/deforceutils) - not on GitHub, not anywhere else, except for custom builds for [Patreon](https://www.patreon.com/cw/deforce) supporters.
+
 This is a client mod + server plugin combo of deforceUtils (my utils) that adds various helpful stuff, like:
 - Noclip ![noclip icon](https://cdn.modrinth.com/data/cached_images/3da2bae69a04e0cff48bf8ec9a1df91208160e24.png)
 - Infinite reach ![infinite reach icon](https://cdn.modrinth.com/data/cached_images/a9c42036d124001fdaaebbba93275fc07fc97d43.png)

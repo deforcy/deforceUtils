@@ -17,7 +17,7 @@
 You can find it by going in the version page:
 
 <p align="center">
-  <img width="589" height="178" alt="image" src="https://github.com/user-attachments/assets/ebb6ab32-1d67-4385-bde9-35c1b1f94543" />
+  <img width="587" height="177" alt="Untitled-1" src="https://github.com/user-attachments/assets/d4713ef5-3ab4-4542-b092-f5c0671e4865" />
 </p>
 
 Available exclusively on [Modrinth](https://modrinth.com/plugin/deforceutils) - not on GitHub, not anywhere else, except for custom builds for [Patreon](https://www.patreon.com/cw/deforce) supporters.

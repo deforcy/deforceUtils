@@ -4,7 +4,7 @@
   <img src="https://cdn.modrinth.com/data/cached_images/b74acc0ca3652fc49bbf61f619656d6ca386f971_0.webp" width="150">
 </p>
 
-![test](https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=deforceUtils&stroke=000&strokeWidth=2)
+![Title](https://capsule-render.vercel.app/api?type=transparent&height=50&color=gradient&fontSize=50&text=deforceUtils&stroke=000&strokeWidth=2)
 
 ![Stable](https://img.shields.io/badge/main-26.1.2-5a5?style=flat)
 ![MC](https://img.shields.io/badge/minecraft-26.0%2B-55a?style=flat)
@@ -12,11 +12,18 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/deforcy/deforceUtils)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
-![Alert](https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&text=YOU%20NEED%20A%20PLUGIN%20FOR%20IT%20TO%20WORK%20ON%20A%20SERVER&stroke=000&strokeWidth=2&fontSize=34&fontColor=f00&animation=twinkling)
+![Alert](https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&text=PLUGIN%20IS%20A%20SEPARATE%20FILE%20REQUIRED%20ON%20SERVER&stroke=000&strokeWidth=2&fontSize=32&fontColor=f00&animation=twinkling)
+
+You can find it by going in the version page:
+
+<p align="center">
+  <img width="589" height="178" alt="image" src="https://github.com/user-attachments/assets/ebb6ab32-1d67-4385-bde9-35c1b1f94543" />
+</p>
 
 Available exclusively on [Modrinth](https://modrinth.com/plugin/deforceutils) - not on GitHub, not anywhere else, except for custom builds for [Patreon](https://www.patreon.com/cw/deforce) supporters.
 
 </div>
+
 
 This is a client mod + server plugin combo of deforceUtils (my utils) that adds various helpful stuff, like:
 - Noclip ![noclip icon](https://cdn.modrinth.com/data/cached_images/3da2bae69a04e0cff48bf8ec9a1df91208160e24.png)

@@ -14,10 +14,10 @@
 
 ![Alert](https://capsule-render.vercel.app/api?type=transparent&height=40&color=gradient&text=PLUGIN%20IS%20A%20SEPARATE%20FILE%20REQUIRED%20ON%20SERVER&stroke=000&strokeWidth=2&fontSize=32&fontColor=f00&animation=twinkling)
 
-You can find it by going in the version page:
+You can find it by going to versions tab:
 
 <p align="center">
-  <img width="587" height="177" alt="Untitled-1" src="https://github.com/user-attachments/assets/d4713ef5-3ab4-4542-b092-f5c0671e4865" />
+  <img width="469" height="193" alt="Screenshot_44" src="https://github.com/user-attachments/assets/7c52de96-86a4-4a52-8e1e-a37badaa1664" />
 </p>
 
 Available exclusively on [Modrinth](https://modrinth.com/plugin/deforceutils) - not on GitHub, not anywhere else, except for custom builds for [Patreon](https://www.patreon.com/cw/deforce) supporters.
